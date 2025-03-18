@@ -45,7 +45,3 @@ time_series_forecasting
 - Use the Jupyter notebooks in the `notebooks` directory for interactive data analysis and modeling.
 - The `src` directory contains reusable Python scripts that can be imported into the notebooks or used independently.
 - Ensure that the raw data is placed in the `data/raw` directory before running the data collection notebook.
-
-## License
-
-This project is licensed under the MIT License.
